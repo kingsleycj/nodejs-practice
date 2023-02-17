@@ -28,3 +28,4 @@ const room_Schema = new Schema(
 const Rooms = model(constants.DATABASES, room_Schema);
 
 module.exports = Rooms;
+
